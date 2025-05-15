@@ -1,0 +1,12 @@
+- **快速开始**
+  - [首页](/)
+  - [关于](/about)
+- **随心记录**
+  - [MySQL 数据库](/docs/notes/mysql/)
+  - [Python](/docs/notes/python/)
+- **资源分享**
+  - [免费二级域名](/docs/resources/domain)
+  - [静态网站托管](/docs/resources/hosting)
+- **友联**
+  - [友联](/friends/)
+  - [github](/github/)
