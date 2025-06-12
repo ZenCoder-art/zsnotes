@@ -1,0 +1,27 @@
+- **MySQL 概述**
+  - [数据库概述](/docs/notes/mysql/)
+  - [信息与数据模型](/docs/notes/mysql/MySQL概述/信息与数据模型)
+  - [关系代数及关系数据库理论](/docs/notes/mysql/MySQL概述/关系代数及关系数据库理论)
+  - [MySQL 概述](/docs/notes/mysql/MySQL概述/MySQL概述)
+  - [MySQL 安装](/docs/notes/mysql/MySQL概述/MySQL安装)
+  - [MySQL 数据类型](/docs/notes/mysql/MySQL概述/MySQL数据类型)
+  - [MySQL 函数](/docs/notes/mysql/MySQL概述/MySQL函数)
+  - [MySQL 约束](/docs/notes/mysql/MySQL概述/MySQL约束)
+- **SQL 语句**
+  - [DDL 语句](/docs/notes/mysql/SQL语句/DDL语句)
+  - [DML 语句](/docs/notes/mysql/SQL语句/DML语句)
+  - [DQL 语句](/docs/notes/mysql/SQL语句/DQL语句)
+  - [DCL 语句](/docs/notes/mysql/SQL语句/DCL语句)
+- **MySQL 进阶**
+  - [MySQL 存储引擎与字符集](/docs/notes/mysql/MySQL进阶/MySQL存储引擎与字符集)
+  - [MySQL 视图](/docs/notes/mysql/MySQL进阶/MySQL视图)
+  - [MySQL 事务与并发控制](/docs/notes/mysql/MySQL进阶/MySQL事务与并发控制)
+  - [MySQL 索引](/docs/notes/mysql/MySQL进阶/MySQL索引)
+  - [MySQL 存储过程与函数](/docs/notes/mysql/MySQL进阶/MySQL存储过程与函数)
+  - [MySQL 触发器与事件调度器](/docs/notes/mysql/MySQL进阶/MySQL触发器与事件调度器)
+- **MySQL 运维**
+  - [MySQL 优化](/docs/notes/mysql/MySQL运维/MySQL的优化)
+  - [MySQL 日志管理](/docs/notes/mysql/MySQL运维/MySQL日志管理)
+  - [MySQL 数据库备份与还原](/docs/notes/mysql/MySQL运维/MySQL数据库备份与还原)
+  - [分布式数据库与 MySQL 的复制、集群技术](/docs/notes/mysql/MySQL运维/分布式数据库与MySQL的复制、集群技术)
+  - [Python 连接 MySQL 数据库](/docs/notes/mysql/MySQL运维/Python连接MySQL)
